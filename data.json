@@ -32,6 +32,11 @@
                 "id": 6,
                 "main": "Course list",
                 "def": "Shit"
+            },
+            {
+                "id": 7,
+                "main": "Metrology",
+                "def": "Metrology is the science of measurements, methods and means of ensuring their unity and ways to achieve the required accuracy"
             }
         ]
     }

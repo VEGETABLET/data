@@ -30,7 +30,8 @@
             },
             {
                 "id": 6,
-                "main": ""
+                "main": "Course list",
+                "def": "Shit"
             }
         ]
     }
